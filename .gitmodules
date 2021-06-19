@@ -1,0 +1,6 @@
+[submodule "apps/django-allauth"]
+	path = apps/vendors/django-allauth
+	url = https://github.com/pennersr/django-allauth
+[submodule "apps/django-rest-auth"]
+	path = apps/vendors/django-rest-auth
+	url = https://github.com/Tivix/django-rest-auth
